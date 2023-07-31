@@ -1,32 +1,23 @@
 [comment]: <> ([age is ]&# 40;# age&# 41;)
 # AadhaarNumber
 
-age represents person age as integer value
+aadhaarNumber represents person aadhaarNumber as string value
 
 ```
-  "age": 18
+  "aadhaarNumber": "1234567812345678"
 ```
 
-# DOB
+# dateOfBirth
 
-birthday represents person birthday as integer value
-
-```
-  "birthday": 6
-```
-
-# Name
-
-birthDate represents person age as integer value
+dateOfBirth represents person's dateOfBirth as integer value
 
 ```
-  "birthDate": 6
+  "dateOfBirth": 6
 ```
-
 
 # id
 
-birthdayMonth represents person age as integer value
+id represents credential's subject did as uri value
 
 ```
   "id": <did>
